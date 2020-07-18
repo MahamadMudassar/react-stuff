@@ -1,0 +1,14 @@
+
+ul{
+    float:right;
+}
+ul li{
+    display:inline-flex;
+    padding: 10px;
+    background-color: Gray;
+    border-left:1px solid blue;
+}
+
+li a{
+    text-decoration: none;
+}
